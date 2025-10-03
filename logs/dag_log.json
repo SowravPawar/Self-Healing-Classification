@@ -1,0 +1,12 @@
+{"timestamp": "2025-10-03T10:49:06.213278", "event_type": "prediction", "message": "Predicted: Negative, Confidence: 1.00"}
+{"timestamp": "2025-10-03T10:49:06.213891", "event_type": "final_decision", "message": {"input": "The movie was painfully slow and boring.", "final_label": "Negative", "confidence": 0.9991928935050964}}
+{"timestamp": "2025-10-03T10:49:28.283824", "event_type": "prediction", "message": "Predicted: Negative, Confidence: 1.00"}
+{"timestamp": "2025-10-03T10:49:28.284622", "event_type": "final_decision", "message": {"input": "The movie was okay.", "final_label": "Negative", "confidence": 0.998151957988739}}
+{"timestamp": "2025-10-03T10:49:42.430695", "event_type": "prediction", "message": "Predicted: Negative, Confidence: 1.00"}
+{"timestamp": "2025-10-03T10:49:42.431461", "event_type": "final_decision", "message": {"input": "The movie was good.", "final_label": "Negative", "confidence": 0.9969123601913452}}
+{"timestamp": "2025-10-03T11:29:55.568199", "event_type": "prediction", "message": "Predicted: Positive, Confidence: 0.83"}
+{"timestamp": "2025-10-03T11:29:55.568933", "event_type": "final_decision", "message": {"input": "I loved the movie!", "final_label": "Positive", "confidence": 0.8272366523742676}}
+{"timestamp": "2025-10-03T11:30:13.792465", "event_type": "prediction", "message": "Predicted: Negative, Confidence: 0.85"}
+{"timestamp": "2025-10-03T11:30:13.793237", "event_type": "final_decision", "message": {"input": "It was so boring and slow.", "final_label": "Negative", "confidence": 0.8519999980926514}}
+{"timestamp": "2025-10-03T11:30:32.782582", "event_type": "prediction", "message": "Predicted: Negative, Confidence: 0.75"}
+{"timestamp": "2025-10-03T11:30:32.783394", "event_type": "final_decision", "message": {"input": "The acting was okay, but the plot dragged.", "final_label": "Negative", "confidence": 0.7545827627182007}}

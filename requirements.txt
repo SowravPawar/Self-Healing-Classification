@@ -1,0 +1,14 @@
+# Required packages with minimum versions for stability
+transformers[torch]>=4.38.0
+datasets>=2.17.0
+torch>=2.1.0
+peft>=0.9.0
+trl>=0.8.0
+accelerate>=0.27.0
+huggingface_hub[hf_xet]>=0.19.0  # Includes hf_xet for faster downloads
+langgraph>=0.1.0
+bitsandbytes>=0.41.0
+scikit-learn
+tqdm
+jsonlines
+colorama
